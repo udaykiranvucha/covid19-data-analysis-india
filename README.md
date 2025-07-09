@@ -4,7 +4,8 @@ Analysis and Visualization of COVID-19 Data in India using Python
  
 Chart 1 :  Number of new cases increase and decrease for all dates      
          ![image](https://github.com/user-attachments/assets/b6361683-87dd-427b-8b79-303c5ecda753)
-         The cases increased and decreased sharply, indicating the start and end of different COVID-19 waves.
+          Insights from the Chart: 
+          - The cases increased and decreased sharply, indicating the start and end of different COVID-19 waves.
 
 Chart 2:  Monthly COVID-19 Case Trends in 2020 – Total New Cases Per Month
          ![image](https://github.com/user-attachments/assets/914fcc79-fe4d-4425-b134-223e22ef12a6)
@@ -71,7 +72,6 @@ Chart 9:  Wave-wise ICU Admissions During the COVID-19 Pandemic in India
              - First Wave – 51.36% of ICU Admissions
              - Second Wave – 32.74% of ICU Admissions
              - Third Wave – 15.90% of ICU Admissions
-Chart 10: To show deaths and recoveries in state-wise 
-          ![image](https://github.com/user-attachments/assets/4f3be6a5-55d1-4ba8-8a2a-a4db138707ec)
+
              
            
