@@ -89,7 +89,8 @@ Chart 9:  Wave-wise ICU Admissions During the COVID-19 Pandemic in India
              - First Wave – 51.36% of ICU Admissions
              - Second Wave – 32.74% of ICU Admissions
              - Third Wave – 15.90% of ICU Admissions
-Chart 10: To show deaths and recoveries in state-wise
+Chart 10: To show deaths and recoveries in state-wise ![image](https://github.com/user-attachments/assets/337198cc-4271-4716-ad66-9d242d753254)
+
           ![image](https://github.com/user-attachments/assets/bec875cf-0abd-4df7-8481-c21e77b198b6)
 
           Insights from the Chart: 
