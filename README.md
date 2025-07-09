@@ -1,13 +1,13 @@
 # covid19-data-analysis-india
 Analysis and Visualization of COVID-19 Data in India using Python
 
- 
-Chart 1 :  Number of new cases increase and decrease for all dates      
+ Chart 1 :  Number of new cases increase and decrease for all dates![image](https://github.com/user-attachments/assets/56798b32-d223-4f42-9345-33a18e850a3b)
+    
          ![image](https://github.com/user-attachments/assets/b6361683-87dd-427b-8b79-303c5ecda753)
           Insights from the Chart: 
           - The cases increased and decreased sharply, indicating the start and end of different COVID-19 waves.
+Chart 2:  Monthly COVID-19 Case Trends in 2020 – Total New Cases Per Month![image](https://github.com/user-attachments/assets/5ae4242a-81b7-4960-baf2-b1b73498b6fb)
 
-Chart 2:  Monthly COVID-19 Case Trends in 2020 – Total New Cases Per Month
 ![image](https://github.com/user-attachments/assets/e095b830-45e6-4bdf-ae8c-9ae3cb070cac)
 
           ![image](https://github.com/user-attachments/assets/f9668cca-fdbd-4950-b7bc-f65aa2d29d5d)
