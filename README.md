@@ -8,9 +8,12 @@ Chart 1 :  Number of new cases increase and decrease for all dates 
           - The cases increased and decreased sharply, indicating the start and end of different COVID-19 waves.
 
 Chart 2:  Monthly COVID-19 Case Trends in 2020 – Total New Cases Per Month
-          ![image](https://github.com/user-attachments/assets/f9668cca-fdbd-4950-b7bc-f65aa2d29d5d)
+![image](https://github.com/user-attachments/assets/e095b830-45e6-4bdf-ae8c-9ae3cb070cac)
 
-         ![image](https://github.com/user-attachments/assets/914fcc79-fe4d-4425-b134-223e22ef12a6)
+          ![image](https://github.com/user-attachments/assets/f9668cca-fdbd-4950-b7bc-f65aa2d29d5d)
+          
+
+        
          
          Insights from the Chart: 
          
